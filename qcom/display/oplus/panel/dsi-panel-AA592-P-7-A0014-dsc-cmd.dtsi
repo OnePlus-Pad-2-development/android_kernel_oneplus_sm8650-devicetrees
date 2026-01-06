@@ -1184,6 +1184,7 @@
 	oplus,ofp-longrui-aod-config = <0x06>;
 	oplus,ofp-need-to-wait-data-before-aod-on;
 	oplus,ofp-need-to-update-lhbm-pressed-icon-gamma-nt37707;
+	oplus,ofp-need-fppress-notify;
 
 	/* FACTORY CONFIG */
 	oplus,color_vivid_status;
